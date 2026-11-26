@@ -1,0 +1,24 @@
+# This repository accepts public documentation only.
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+*.log
+*.sql
+*.sqlite*
+*.db
+*.zip
+*.tar*
+*.exe
+*.msi
+*.pl
+*.pm
+node_modules/
+private/
+secrets/
+customer-data/
+product-source/
+.DS_Store
+Thumbs.db
